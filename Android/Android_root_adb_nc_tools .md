@@ -91,7 +91,7 @@ adb tcpip 5555
 adb connect 192.168.0.101:5555
 ```
 
-
+权限问题，直接连接需要先连接 usb 执行 connect 命令
 
 # nc 模拟服务器发送 json 数据
 
